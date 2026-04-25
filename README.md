@@ -75,9 +75,3 @@ http://localhost:3000
 
 
 ---
-
-🎯 Hackathon Theme
-
-Governance & E-Administration
-
-Team ID: UB-1047
